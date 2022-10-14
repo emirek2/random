@@ -19,12 +19,12 @@ from random import shuffle
 #   print("not snake eyes")
 
 #practice with shuffle
-my_list= range(1,51)
-print(list(my_list))
+# my_list= range(1,51)
+# print(list(my_list))
 
-my_list=list(my_list)
-shuffle(my_list)
-print(my_list)
+# my_list=list(my_list)
+# shuffle(my_list)
+# print(my_list)
 
 #challenge
 new_list=randint(1,201)
